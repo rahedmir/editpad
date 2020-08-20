@@ -13,6 +13,6 @@
 
 <a href="https://edit-pad.soft32.com/" target="_blank"> soft32.com </a>
 
-<a type="button" href="https://edit-pad.uptodown.com/windows" target="_blank"> uptodown.com </a>
+<a href="https://edit-pad.uptodown.com/windows" target="_blank"> uptodown.com </a>
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+
